@@ -1,0 +1,25 @@
+{
+  "name": "career-backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/roshanpatil2000/career-backend#readme",
+  "bugs": {
+    "url": "https://github.com/roshanpatil2000/career-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roshanpatil2000/career-backend.git"
+  },
+  "license": "ISC",
+  "author": "Roshan Patil",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
